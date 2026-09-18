@@ -2,23 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Thalita Vitória Medeiros Silva, tenho 19 anos e sou natural de São Luís-MA. Concluí o ensino médio no IFMA, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Computação na UEMA. 
-
-    <a href="https://github.com/Thalitamedeiros?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Thalitamedeiros?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Thalitamedeiros?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Thalitamedeiros?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Me chamo Thalita Vitória Medeiros Silva, tenho 19 anos e sou natural de São Luís-MA. Concluí o ensino médio no IFMA, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Computação na UEMA.
 
 ---
 
